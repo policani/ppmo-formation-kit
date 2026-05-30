@@ -1,0 +1,22 @@
+flowchart TD
+    A[Formation trigger: establish or reset PMO / EPMO / PPMO] --> B[Intake current-state signals]
+    B --> C{Is the operating problem clear?}
+    C -- No --> C1[Clarify pain, sponsors, authority, portfolio scope, constraints]
+    C1 --> B
+    C -- Yes --> D[Define formation boundary and operating charter]
+    D --> E[Map decision rights and human authority]
+    E --> F[Create portfolio taxonomy and intake model]
+    F --> G[Design governance council and cadence]
+    G --> H[Define reporting model and decision-log pattern]
+    H --> I{Are assumptions and ownership confirmed?}
+    I -- No --> I1[Flag unresolved assumptions and sponsor confirmations]
+    I1 --> J[Draft provisional formation package]
+    I -- Yes --> K[Draft confirmed formation package]
+    J --> L[Build 30/60/90 formation plan]
+    K --> L
+    L --> M[Quality review: clarity, non-overlap, public-safety, human control]
+    M --> N[Formation package ready for human review]
+    N --> O[Handoff: active intake triage]
+    N --> P[Handoff: prioritization scoring]
+    N --> Q[Handoff: executive review cadence]
+    N --> R[Handoff: governance operations log]
