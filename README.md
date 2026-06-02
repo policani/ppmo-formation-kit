@@ -2,6 +2,18 @@
 
 A lightweight, human-governed ChatGPT Project package for establishing or resetting a PMO, EPMO, PPMO, transformation office, or portfolio governance function without starting with template sprawl.
 
+## Portfolio exhibit
+
+| Review question | Where to look |
+|---|---|
+| Status | Public portfolio prototype for ChatGPT Project use and PMO formation review. |
+| Best evaluator | PMO, EPMO, PPMO, transformation office, portfolio governance, or executive operations leaders setting up the operating container before active intake begins. |
+| Operating decision supported | What decision rights, intake shape, taxonomy, council cadence, reporting model, and first 90-day setup path should exist before the portfolio starts treating demand as governed work? |
+| Concrete example | [`examples/sample-output.html`](examples/sample-output.html) shows a synthetic formation package created from the sample scenario. |
+| Before / after proof | Before: leaders have scattered initiatives, unclear sponsorship, and template requests. After: the portfolio has a proposed operating charter, decision-rights model, intake design, taxonomy, council model, reporting shape, and 30/60/90 plan for human review. |
+| Boundary | This kit forms the operating container. It does not operate the portfolio, score initiatives, approve headcount, approve funding, or assign executive authority. |
+| Portfolio lane | [Set up the PPMO intake lane](https://policani.net/#navigator). |
+
 ## Operating problem
 
 Organizations often try to form a PMO or PPMO by creating templates before clarifying the operating model. The result is predictable: unclear decision rights, inconsistent intake, weak sponsorship, no portfolio taxonomy, overloaded governance meetings, competing executive priorities, and reporting that describes activity without enabling tradeoffs.
@@ -33,7 +45,7 @@ The kit turns rough formation notes, leadership concerns, current-state pain poi
 
 ## What it does not do
 
-This is not a full PMO maturity model, org-design approval engine, headcount model, PPM software replacement, or executive authority layer. It does not approve an organization design, assign staff, commit funding, approve priorities, accept risk, or claim authority over executives.
+This kit forms the operating model for a PMO, EPMO, PPMO, transformation office, or portfolio governance function. It does not approve an organization design, assign staff, commit funding, approve priorities, accept risk, replace PPM software, or claim authority over executives.
 
 ## How to use this in ChatGPT
 
