@@ -194,6 +194,10 @@ The example uses a fictional SaaS company with 500 initiatives, unclear sponsor 
 
 This package supports intake, classification, synthesis, drafting, review, and decision support. Human leaders retain accountability for executive authority, organizational design, funding, staffing, risk acceptance, prioritization, communications, and operating commitments.
 
+## License
+
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
+
 ## Search keywords
 
 PMO formation, PPMO formation, EPMO setup, portfolio governance, PMO operating model, transformation office, governance council, decision rights, portfolio taxonomy, project intake model, executive portfolio cadence, PMO charter, portfolio reporting model, human-governed AI, ChatGPT Project, AI-assisted PMO.
